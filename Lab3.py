@@ -12,4 +12,4 @@ def cartesian_to_polar(x, y):
 # Function 3 (40): Calculate the position of pendulum for (A, f, ϕ, t).
 # This function should take (A, f, ϕ, t) as input and return the position value x.
 def pendulum_position(A, f, phi, t):
-    return (0, 0)
+    return 0
